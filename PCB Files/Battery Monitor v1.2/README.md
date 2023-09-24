@@ -18,4 +18,4 @@ The battery monitor was designed for the 2023 rover to monitor its battery usage
 
 - [Zach Waddell](https://github.com/zmw0006)
 
-![Picture of Battery Monitor PCB](Documentation\Battery_Monitor_1.2.png)
+![Picture of Battery Monitor PCB](https://github.com/team-mountaineers-urc-2023/electronics/blob/main/PCB%20Files/Battery%20Monitor%20v1.2/Documentation/Battery_Monitor_1.2.png)
