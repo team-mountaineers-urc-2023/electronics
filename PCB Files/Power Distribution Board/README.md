@@ -18,4 +18,4 @@ The Power Distribution Board includes DC/DC converters used to step down the bat
 - Conner Castle
 - Yu Gu
 
-![Picture of power distribution board](<Documentation\Power Distribution Board.png>)
+![Picture of power distribution board](https://github.com/team-mountaineers-urc-2023/electronics/blob/main/PCB%20Files/Power%20Distribution%20Board/Documentation/Power%20Distribution%20Board.png)
