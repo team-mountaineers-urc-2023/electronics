@@ -23,4 +23,4 @@ The Payload PCB is used to control the electronics on the manipulator and the sc
 
 - [Kendra Gillo](https://github.com/kgillo)
 
-![Picture of Payload PCB](Documentation\Payload_PCB_v3.1.png)
+![Picture of Payload PCB](https://github.com/team-mountaineers-urc-2023/electronics/blob/main/PCB%20Files/Payload%20PCB%20v3.1/Documentation/Payload_PCB_v3.1.png)
