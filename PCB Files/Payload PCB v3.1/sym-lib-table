@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Payload_PCB_Library")(type "KiCad")(uri "${KIPRJMOD}/Symbol Libraries/Payload_PCB_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Symbol Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulators")(type "KiCad")(uri "${KIPRJMOD}/Symbol Libraries/Regulators.kicad_sym")(options "")(descr ""))
+  (lib (name "ROB-14450")(type "Legacy")(uri "${KIPRJMOD}/Symbol Libraries/ROB-14450.lib")(options "")(descr ""))
+)

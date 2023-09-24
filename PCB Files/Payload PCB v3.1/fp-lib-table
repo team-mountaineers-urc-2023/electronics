@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Payload_PCB_v3.1")(type "KiCad")(uri "${KIPRJMOD}/Payload_PCB_v3.1.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "ConnectorMolex1x4")(type "KiCad")(uri "${KIPRJMOD}/Payload_PCB_v3.1.pretty")(options "")(descr ""))
+)

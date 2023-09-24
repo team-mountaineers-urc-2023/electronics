@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Power Distribution Board")(type "KiCad")(uri "${KIPRJMOD}/Power Distribution Board.kicad_sym")(options "")(descr ""))
+)
