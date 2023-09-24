@@ -1,4 +1,4 @@
-# Electronics_Schematics
+# Electronics
 This repository contains diagrams of Wanderer's electrical systems as well as PCBs designed by the Electronics sub-team.
 
 # Table of Contents
@@ -23,7 +23,7 @@ For Key, copy paste the output of `$ cat ~/.ssh/id_rsa.pub`
 
 ## Clone the workspace
 Install git if not done so already with `$ sudo apt install git` then:  
-`git clone git@github.com:wvu-urc/electronics_schematics.git ~electronics_schematics`
+`git clone git@github.com:team-mountaineers-urc-2023/electronics.git ~electronics`
 * If this is your first time talking to Github on your machine, you will receive a warning saying authenticity cannot be established.  
 	Type "yes" and hit enter.
 
